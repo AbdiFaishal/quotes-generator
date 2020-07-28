@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quotes-generator/static/css/main.79cc26c0.chunk.css",
+    "main.js": "/quotes-generator/static/js/main.873393d8.chunk.js",
+    "main.js.map": "/quotes-generator/static/js/main.873393d8.chunk.js.map",
+    "runtime-main.js": "/quotes-generator/static/js/runtime-main.a72141fb.js",
+    "runtime-main.js.map": "/quotes-generator/static/js/runtime-main.a72141fb.js.map",
+    "static/js/2.4394ac6a.chunk.js": "/quotes-generator/static/js/2.4394ac6a.chunk.js",
+    "static/js/2.4394ac6a.chunk.js.map": "/quotes-generator/static/js/2.4394ac6a.chunk.js.map",
+    "index.html": "/quotes-generator/index.html",
+    "precache-manifest.ce2c5aeea24cd9168df8bcd95ad7083f.js": "/quotes-generator/precache-manifest.ce2c5aeea24cd9168df8bcd95ad7083f.js",
+    "service-worker.js": "/quotes-generator/service-worker.js",
+    "static/css/main.79cc26c0.chunk.css.map": "/quotes-generator/static/css/main.79cc26c0.chunk.css.map",
+    "static/js/2.4394ac6a.chunk.js.LICENSE.txt": "/quotes-generator/static/js/2.4394ac6a.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/quotes-generator/static/media/fa-solid-900.cdfec5cf.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a72141fb.js",
+    "static/js/2.4394ac6a.chunk.js",
+    "static/css/main.79cc26c0.chunk.css",
+    "static/js/main.873393d8.chunk.js"
+  ]
+}
